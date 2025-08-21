@@ -1,4 +1,4 @@
 fn main(){
     println!("hello world");
-    let a;
+    let a: i32 = 10;
 }
