@@ -8,3 +8,4 @@ name = "ezchat"
 path = "src/main.rs"
 
 [dependencies]
+hyper = "1.7.0"
